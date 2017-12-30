@@ -2,3 +2,18 @@
 
 #### resource
 * BBC working english http://www.bbc.co.uk/learningenglish/english/features/english-at-work
+
+##### Interview
+* Can I make a suggestion?
+* Why don't you try...?
+* Have you tried asking your colleagues?
+* Maybe I could do a big office search for you...?
+* How about looking through your rubbish bin...?
+* I have an idea!
+
+##### Introduce
+* Hello, I don't think we've met.
+* You must be Tom.
+* I've just joined the team.
+* Nice to meet you!
+* Have you worked here long?
