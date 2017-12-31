@@ -17,3 +17,10 @@
 * I've just joined the team.
 * Nice to meet you!
 * Have you worked here long?
+
+##### asking for help
+* I was wondering if you could do something for me...
+* Would you be able to print out a file for me?
+* Could I have it within ten minutes please?
+* Could you possibly help me with the printer?
+* Would you mind writing your email later?
