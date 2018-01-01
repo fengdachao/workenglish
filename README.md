@@ -26,8 +26,8 @@
 * Would you mind writing your email later?
 
 ##### Language for offering help
-Is there anything I can do?
-Let me help.
-Can I give you a hand?
-Give me a shout if you need anything.
-I have an idea!
+* Is there anything I can do?
+* Let me help.
+* Can I give you a hand?
+* Give me a shout if you need anything.
+* I have an idea!
