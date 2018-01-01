@@ -18,9 +18,16 @@
 * Nice to meet you!
 * Have you worked here long?
 
-##### asking for help
+##### Asking for help
 * I was wondering if you could do something for me...
 * Would you be able to print out a file for me?
 * Could I have it within ten minutes please?
 * Could you possibly help me with the printer?
 * Would you mind writing your email later?
+
+##### Language for offering help
+Is there anything I can do?
+Let me help.
+Can I give you a hand?
+Give me a shout if you need anything.
+I have an idea!
