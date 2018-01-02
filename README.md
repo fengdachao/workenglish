@@ -31,3 +31,11 @@
 * Can I give you a hand?
 * Give me a shout if you need anything.
 * I have an idea!
+
+##### Apologising
+* I'm really sorry to hear that.
+* That's totally unacceptable.
+* It must have been very inconvenient for you.
+* You have my word that we will sort this out.
+* And we could include some of our latest-edition imitation oranges to make up for the inconvenience.
+* I promise you, it won't happen again.
