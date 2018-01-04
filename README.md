@@ -39,3 +39,8 @@
 * You have my word that we will sort this out.
 * And we could include some of our latest-edition imitation oranges to make up for the inconvenience.
 * I promise you, it won't happen again.
+
+##### Giving praise
+* Well done.
+* You were in a difficult situation and you handled it well.
+* Great job. I'm really impressed.
