@@ -56,3 +56,13 @@
 
 * Well, I'm not so sure about that...
 * I see your point but I actually think...
+
+##### Working long
+* Burning the candles at both ends.
+* Doing overtime.
+* Putting the hours.
+* Burning out.
+
+
+
+
