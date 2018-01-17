@@ -84,3 +84,6 @@
 
 
 
+## License
+
+Designed with ♥ by [CJ Patoilo](http://cjpatoilo.com). Licensed under the [MIT License](http://cjpatoilo.mit-license.org).
