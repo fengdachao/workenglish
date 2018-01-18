@@ -32,7 +32,7 @@
 * Give me a shout if you need anything.
 * I have an idea!
 
-##### Apologising
+##### Apologizing
 * I'm really sorry to hear that.
 * That's totally unacceptable.
 * It must have been very inconvenient for you.
@@ -72,7 +72,7 @@
 
 ##### Language for pitching
 * The company has a strong track record of ...
-* We are paticularly proud of ...
+* We are particularly proud of ...
 * The Imperial Lemon's key strengths are ...
 
 ##### Giving feedback
@@ -80,6 +80,13 @@
 * You need work on...
 * Perhaps you should think about...
 
+##### Talking on the phone
+* Hello? This is Anna speaking.
+* Hello Mrs Smith, how can I help you?
+* Hello Mrs Smith, how are you?
+* I am really sorry, he's not available at the moment. Can I take a message?
+* I am afraid he is busy now, shall I ask him to call you back?
+* Thank you for calling, goodbye.
 
 
 
