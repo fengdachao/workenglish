@@ -88,6 +88,11 @@
 * I am afraid he is busy now, shall I ask him to call you back?
 * Thank you for calling, goodbye.
 
+##### Politely refusing
+* Thank you for your offer, but I am really sorry, I won't able to.
+* I am afraid it is against company policy...
+* It wouldn't appropriate.
+* With regret, I am going to have to say no.
 
 
 
