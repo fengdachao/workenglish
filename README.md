@@ -94,6 +94,13 @@
 * It wouldn't appropriate.
 * With regret, I am going to have to say no.
 
+##### Placing a order
+* I'd like to place a order for...
+* We are going to need...
+* Could you send...
+* Could we also have...
+* When can we expect to receive them?
+
 
 
 ## License
