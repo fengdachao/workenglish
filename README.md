@@ -108,7 +108,6 @@
 * Please could you confirm...
 * Best wishes.
 
-export INTERMAIL=“rme://rwc-hinoki05.owmessaging.com:5003”
 
 ## License
 
