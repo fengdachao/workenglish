@@ -119,6 +119,12 @@
 * Any other business
 * And then we can wrap up.
 
+##### Asking for help
+* I would be most gratefull if you could give me some help.
+* Please could I ask you for some advise?
+* I know you are busy but could you spare me a few minutes of your time please.
+
+
 ## License
 
 Licensed under the [MIT License](http://cjpatoilo.mit-license.org).
