@@ -108,6 +108,11 @@
 * Please could you confirm...
 * Best wishes.
 
+##### explaining a misunderstanding
+* I think there's been a misunderstanding.
+* There's been a bit of mix-up.
+* Let me explain what happened.
+
 
 ## License
 
