@@ -108,11 +108,16 @@
 * Please could you confirm...
 * Best wishes.
 
-##### explaining a misunderstanding
+##### Explaining a misunderstanding
 * I think there's been a misunderstanding.
 * There's been a bit of mix-up.
 * Let me explain what happened.
 
+##### Setting a agenda at a meeting
+* There are four items on the agenda today.
+* Firstly , Secondly, After that, Then, And finally
+* Any other business
+* And then we can wrap up.
 
 ## License
 
