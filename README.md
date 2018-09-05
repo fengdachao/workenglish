@@ -124,6 +124,11 @@
 * Please could I ask you for some advise?
 * I know you are busy but could you spare me a few minutes of your time please.
 
+##### Making polite requests
+* Would you mind not doing that please?
+* I am afraid it is agaist company policy.
+* I am afraid it is not permitted.
+* Sorry to have to ask you this but 
 
 ## License
 
