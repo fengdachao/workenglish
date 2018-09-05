@@ -130,6 +130,13 @@
 * I am afraid it is not permitted.
 * Sorry to have to ask you this but 
 
+##### Booking a hotel
+* I'd to check the availability and price for a room please.
+* Does the price include the breakfast?
+* Are there any business facilities such as internet and wifi?
+* I'd like to go ahead and make a reservation please.
+
+
 ## License
 
 Licensed under the [MIT License](http://cjpatoilo.mit-license.org).
