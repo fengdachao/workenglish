@@ -13,3 +13,10 @@
 * It's not apropriate to talk like that.
 * Could we change the subject, please?
 * Can we keep our conversation professional?
+
+##### Making cold call
+* I'm Anna, can you spare a few minutes of your time?
+* I would like to tell about our great new laser-curved fruit.
+* How much plastic fruit do you buy?
+* Thank you for your time. I hope to hear from you soon.
+
