@@ -20,3 +20,8 @@
 * How much plastic fruit do you buy?
 * Thank you for your time. I hope to hear from you soon.
 
+##### Language for negotiation
+* What kind of price are you willing to pay?
+* I don't think we can go that low.
+* If you can buy more stock, I can offer you a bigger discount.
+* I will meet you halfway.
