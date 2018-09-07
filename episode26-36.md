@@ -8,3 +8,8 @@
 * I've got to give it to you straight.
 * The outlook is gloomy.
 * I've got to announce a profit warning.
+
+##### Telling your boos to keep the talk professonal
+* It's not apropriate to talk like that.
+* Could we change the subject, please?
+* Can we keep our conversation professional?
