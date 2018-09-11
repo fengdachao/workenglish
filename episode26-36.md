@@ -25,3 +25,9 @@
 * I don't think we can go that low.
 * If you can buy more stock, I can offer you a bigger discount.
 * I will meet you halfway.
+
+##### Language for project management
+* We've got to complete on price.
+* We need to price our rivals out of the market.
+* We need to cornner the market.
+* We need to build good relationship with our customers.
