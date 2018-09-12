@@ -31,3 +31,15 @@
 * We need to price our rivals out of the market.
 * We need to cornner the market.
 * We need to build good relationship with our customers.
+
+##### Futher language for negotiating a deal
+* I am soory to hear that you are not happy with our price.
+* Tip Top Tranding providers itself on quality products and good value for money. You are valued customer and your business
+  is very important to us.
+  
+##### Language for booking a flight
+* What is the outbound and return date?
+* Do you want to fly business or economy?
+* Do you want a fixed or flexible ticket?
+* Would you like a window or aisle seat?
+* Have you got a frequent flyer number?
