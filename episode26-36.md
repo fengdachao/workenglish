@@ -43,3 +43,10 @@
 * Do you want a fixed or flexible ticket?
 * Would you like a window or aisle seat?
 * Have you got a frequent flyer number?
+
+##### Language for cliching the deal
+* Thank you for sparing the time to see us.
+* Each lemon comes with satisfaction guarantee. I know you wouldn't be disppoited.
+* I would be greatful if you could just sign the contract.
+* Thank you. It was a pleasure doing business with you.
+
