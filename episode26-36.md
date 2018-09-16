@@ -53,5 +53,11 @@
 * We need to process with the order as soon as posssible.
 * I am committed to getting the order deliverd on time.
 
+* I understand you have lots of exprerience so I would like to use your skills to help with the task.
+* Together we could do this job really well.
+* Let's discuss this so we can agree on a plan of acton.
+* Please repect my decision and let's move on.
+
+
 
 
