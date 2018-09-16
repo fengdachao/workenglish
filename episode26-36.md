@@ -49,4 +49,9 @@
 * Each lemon comes with satisfaction guarantee. I know you wouldn't be disppoited.
 * I would be greatful if you could just sign the contract.
 * Thank you. It was a pleasure doing business with you.
+* It's good news, I've closed the deal with and the contract is signed.
+* We need to process with the order as soon as posssible.
+* I am committed to getting the order deliverd on time.
+
+
 
