@@ -58,6 +58,14 @@
 * Let's discuss this so we can agree on a plan of acton.
 * Please repect my decision and let's move on.
 
+##### Language for dealing with a difficult colleague
+* I am concerned she's made a mistake that might effect our business.
+* She is not pulling her weight.
+* I am finding it very difficult to work with her.
 
+##### Language for maintaining good customer relation
+* I hope you have received our order and are happy with it.
+* We do hope you are pleased with our service so you may use us again.
+* Do you have any question you may want to ask?
 
 
