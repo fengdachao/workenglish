@@ -28,3 +28,15 @@
 * I seem to have lost some documents.
 * I have turn the computer off and on but that hasn't fixed it.
 * Can you help, please?
+
+##### Language to use in an 'elevator pitch'
+* We've come up with an exciting new product.
+* This fantastic product will be a great addition to table decorations in the cafe and restaurant market.
+* We can increase efficiency but maintain quality.
+* By my calculations, we can increase profits by 20%.
+* I am confident this new product will be a huge success.
+
+##### Language to use when you're in charge
+* If anyone has any issues about their work please come and speak to me.
+* I would like to have a meeting to discuss our work.
+* If there is anything you want to ask, my door is always open.
