@@ -14,3 +14,17 @@
 * What was the cause of the accident?
 * Were there any injureies?
 * How could the accident be avoided?
+
+##### Language to use in customer research
+* Could I ask your opinion on a new product we are hoping to develop?
+* What plastic products do you currently use?
+* What products do you like to see us sell in the fulture?
+* How do you feel about selling the plastic vegetables?
+* Any particular vegetable do you like to see?
+
+##### Language to use in dealing with IT problem
+* I am having problem with my computer.
+* The screen keeps freezing.
+* I seem to have lost some documents.
+* I have turn the computer off and on but that hasn't fixed it.
+* Can you help, please?
